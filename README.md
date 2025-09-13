@@ -2,7 +2,7 @@
 
 ## 📦 How to Upload This Package to GitHub
 
-Follow these steps to upload your local package (even if it’s in `Downloads/`) to GitHub:
+Follow these steps to upload your local package to GitHub:
 
 ---
 
